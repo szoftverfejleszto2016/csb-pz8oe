@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://szoftverfejleszto2016.github.io/csb-pz8oe/static/js/main.d0c738e5.chunk.js",
+    "main.js.map": "https://szoftverfejleszto2016.github.io/csb-pz8oe/static/js/main.d0c738e5.chunk.js.map",
+    "runtime-main.js": "https://szoftverfejleszto2016.github.io/csb-pz8oe/static/js/runtime-main.f72620f3.js",
+    "runtime-main.js.map": "https://szoftverfejleszto2016.github.io/csb-pz8oe/static/js/runtime-main.f72620f3.js.map",
+    "static/js/2.1ba3f0d6.chunk.js": "https://szoftverfejleszto2016.github.io/csb-pz8oe/static/js/2.1ba3f0d6.chunk.js",
+    "static/js/2.1ba3f0d6.chunk.js.map": "https://szoftverfejleszto2016.github.io/csb-pz8oe/static/js/2.1ba3f0d6.chunk.js.map",
+    "index.html": "https://szoftverfejleszto2016.github.io/csb-pz8oe/index.html",
+    "precache-manifest.eccbd831111b29a0c198bbc968b6f28e.js": "https://szoftverfejleszto2016.github.io/csb-pz8oe/precache-manifest.eccbd831111b29a0c198bbc968b6f28e.js",
+    "service-worker.js": "https://szoftverfejleszto2016.github.io/csb-pz8oe/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f72620f3.js",
+    "static/js/2.1ba3f0d6.chunk.js",
+    "static/js/main.d0c738e5.chunk.js"
+  ]
+}
